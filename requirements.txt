@@ -27,7 +27,7 @@ defusedxml==0.6.0
 distlib==0.3.0
 distro==1.4.0
 distro-info===0.23ubuntu1
-Django==3.0.6
+Django==3.0.7
 django-mathfilters==1.0.0
 docker==4.1.0
 docker-compose==1.25.0
