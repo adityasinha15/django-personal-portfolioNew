@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['adityasinha.herokuapp.com']
 
 
 # Application definition
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
